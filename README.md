@@ -1,7 +1,7 @@
     import java.util.ArrayList; // Mengimpor kelas ArrayList untuk menyimpan daftar tugas.
     import java.util.Scanner; // Mengimpor kelas Scanner untuk membaca input dari pengguna.
 
-    public class aris_todolist { // Mendeklarasikan kelas utama Arii_todolist.
+    public class aris_todolist { // Mendeklarasikan kelas utama aris_todolist.
     private ArrayList<String> todoList; // Mendeklarasikan ArrayList untuk menyimpan daftar tugas.
 
     public aris_todolist() { // Konstruktor untuk menginisialisasi daftar tugas.
